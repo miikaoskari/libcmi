@@ -1,0 +1,11 @@
+:project:
+  :build_root: project/build/
+  :release_build: TRUE
+
+:paths:
+  :test:
+    - tests/**
+  :source:
+    - src/**
+  :include:
+    - include/**
